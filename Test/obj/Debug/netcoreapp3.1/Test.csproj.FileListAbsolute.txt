@@ -1,0 +1,24 @@
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.AssemblyReference.cache
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.Asio.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.Core.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.Midi.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.Wasapi.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.WinForms.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\NAudio.WinMM.dll
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.Properties.Resources.resources
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Test.csproj.GenerateResource.cache
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Word FighterZ.exe
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Word FighterZ.deps.json
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Word FighterZ.runtimeconfig.json
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Word FighterZ.runtimeconfig.dev.json
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Word FighterZ.dll
+C:\Users\ryanb\source\repos\Test\Test\bin\Debug\netcoreapp3.1\Word FighterZ.pdb
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Word FighterZ.dll
+C:\Users\ryanb\source\repos\Test\Test\obj\Debug\netcoreapp3.1\Word FighterZ.pdb
