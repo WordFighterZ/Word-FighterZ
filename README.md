@@ -12,7 +12,7 @@ Rien de plus simple, il vous suffit de lancer l'application "Word FighterZ" pré
 
 Vous aurez dans le jeux une succession de choix à faire. Vous pourrez alors utiliser les flèches pour choisir, puis Entrée pour confirmer votre choix.
 
-![AltText](../GIF/CursorMove.gif?raw=true)
+![AltText](https://github.com/rBLOT-Arcenz/Word-FighterZ/blob/main/GIF/CursorMove.gif?raw=true)
 
 Vous avez plusieurs actions possible :
 
@@ -28,7 +28,7 @@ Vous avez plusieurs actions possible :
 ## Explication des différentes classes
 
 ### - Damager 
-![AltText](../GIF/Damager.png?raw=true) 
+![AltText](https://github.com/rBLOT-Arcenz/Word-FighterZ/blob/main/GIF/Damager.png?raw=true) 
 
 >Classe infligeant beaucoup de dégats, mais n'est pas très résistant.
 >
@@ -41,7 +41,7 @@ lui sont infligés durant ce tour. Les dégâts sont quand même
 subis par le Damager.
 
 ### - Tank 
-![AltText](../GIF/Tank.png?raw=true) 
+![AltText](https://github.com/rBLOT-Arcenz/Word-FighterZ/blob/main/GIF/Tank.png?raw=true) 
 
 >Classe n'infligeant pas beaucoup de dégats, mais ayant beaucoup de vie.
 >
@@ -52,7 +52,7 @@ subis par le Damager.
 >Capacité spéciale : S'inflige 1 de dégats, mais en inflige 2 à son adversaire. Si celui-ci se défend, 1 dégat lui sera tout de même infligé.
 
 ### - Healer 
-![AltText](../GIF/Healer.png?raw=true) 
+![AltText](https://github.com/rBLOT-Arcenz/Word-FighterZ/blob/main/GIF/Healer.png?raw=true) 
 
 >Classe n'infligeant pas beaucoup de dégats, Mais pouvant se soigner.
 >
@@ -63,7 +63,7 @@ subis par le Damager.
 >Capacité spéciale : Récupère 2 points de vie.
 
 ### - Joker 
-![AltText](../GIF/Joker.png?raw=true) 
+![AltText](https://github.com/rBLOT-Arcenz/Word-FighterZ/blob/main/GIF/Joker.png?raw=true) 
 
 >Une classe bien mystérieuse, mais finalement simple à comprendre : tout est aléatoire, de ses points de vie, dégats, à son coup spécial.
 >
